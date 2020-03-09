@@ -1,0 +1,36 @@
+# R Hidden Files
+.Rproj.user
+.Rhistory
+.Ruserdata
+.RData
+
+# R cache, alias and binary files
+*.rdb
+*.rdx
+*.rds
+*_cache/*
+*.RData
+*.Rproj alias
+
+# Mac OS
+.DS_Store
+
+# Certain types of files
+*.pdf
+#*.xlsx
+#*.tiff
+# *.pptx
+#*.png
+*.orig
+*alias
+.ipynb_checkpoints
+~$*
+
+# Subfolders to exclude
+
+
+#Subfolders with info to place in repo
+
+
+# Individual Files
+

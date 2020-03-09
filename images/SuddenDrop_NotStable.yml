@@ -1,0 +1,7 @@
+---
+Name: SuddenDrop_NotStable.png
+Project: Pilot Projects
+Report: 28-Clustering_Kmeans_PolynomialRegressionCHOP_EVA
+Description: >
+  Shows a K-means-derived cluster demonstrating sudden drop in hearing
+  thresholds without stability (i.e. they just drop).
