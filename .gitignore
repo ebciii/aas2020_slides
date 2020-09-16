@@ -27,7 +27,7 @@
 ~$*
 
 # Subfolders to exclude
-
+arkiv/*
 
 #Subfolders with info to place in repo
 
